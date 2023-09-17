@@ -51,9 +51,6 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
-
-![Project 005 Snapshot](food-search-app.gif)
 
 ## Objective
 
